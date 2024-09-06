@@ -1,0 +1,190 @@
+{
+  "profile": {
+    "name": "Likho Bomvana",
+    "title": "Founder, Software Developer, QA Engineer and Designer",
+    "bio": "A passionate developer with experience in web development, quality assurance, and design. Founder of innovative projects and always eager to learn new technologies.",
+    "image": "profile.jpeg",
+    "socialLinks": [
+      {
+        "platform": "github",
+        "url": "https://github.com/youractualusername"
+      },
+      {
+        "platform": "linkedin",
+        "url": "https://linkedin.com/in/youractualusername"
+      },
+      {
+        "platform": "twitter",
+        "url": "https://twitter.com/youractualusername"
+      }
+    ]
+  },
+  "about": {
+    "fullBio": "I am an accomplished Software Quality Assurance Engineer with a robust background in the entire system development life-cycle. My expertise lies in the creation and implementation of meticulous test plans, test cases, and streamlined testing procedures. This has consistently led to swift issue resolution, substantial cost savings, and impeccable audit outcomes. I am characterized by unwavering diligence, boundless enthusiasm, and a versatile mindset, eager to shape my skills to benefit any organization.",
+    "skills": [
+      "Web Automation Testing",
+      "Mobile Automation (Android & iOS)",
+      "API Automation",
+      "Manual Testing",
+      "Continuous Integration/Continuous Deployment",
+      "Test Planning and Documentation",
+      "Defect Tracking and Management"
+    ],
+    "gallery": [
+      "g-1.jpg",
+      "g-2.jpg",
+      "g-3.jpg"
+    ]
+  },
+  "workHistory": [
+    {
+      "title": "Intermediate Quality Assurance Engineer",
+      "company": "Betika",
+      "period": "August 2023 – current",
+      "responsibilities": [
+        "Team Collaboration and Testing Strategy",
+        "Test Automation and Execution",
+        "Continuous Integration and Deployment Support",
+        "API and Application Testing",
+        "Research and Innovation in testing practices"
+      ],
+      "achievements": [
+        "Implemented UI Automation framework for Betika using Playwright",
+        "Implemented Github actions workflows for CI/CD",
+        "Implemented API Automation Framework using Jest & Axios",
+        "Coaching fellow QA's on Automation & CI/CD pipelines"
+      ]
+    },
+    {
+      "title": "Quality Assurance Engineer",
+      "company": "Digital Outsource Services",
+      "period": "November 2021 – July 2023",
+      "responsibilities": [
+        "Designed and maintained test scripts and documentation",
+        "Worked within ATDD framework and defined items using BDD syntax",
+        "Automated regression testing and identified/logged defects"
+      ],
+      "achievements": [
+        "Resolved issues with launching the App via Appium inspector",
+        "Introduced a testing checklist for frontend and API testing",
+        "Implemented Playwright for the lobby team"
+      ]
+    },
+    {
+      "title": "Software Automation Engineer",
+      "company": "Batsamayi Software Development",
+      "period": "April 2020 – October 2021",
+      "responsibilities": [
+        "Web, Desktop, API automation testing",
+        "Developed & Maintained Test Scripts",
+        "Provided detailed Daily Regression Reports"
+      ],
+      "achievements": [
+        "Managed to get automation to run on 80% to 90% threshold for passing tests"
+      ]
+    },
+    {
+      "title": "Software Quality Engineer",
+      "company": "Batsamayi Software Development",
+      "period": "January 2019 – March 2020",
+      "responsibilities": [
+        "Designed, developed, and executed test scripts",
+        "Used SQL for database testing",
+        "Collaborated with software developers and business analysts"
+      ],
+      "achievements": [
+        "Introduced Web Automation for Test coverage"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Nelson Mandela University (NMU)",
+      "degree": "BTech (Information Technology: Software Development)",
+      "year": "2018"
+    },
+    {
+      "institution": "Nelson Mandela University (NMU)",
+      "degree": "NDip (Information Technology: Software Development)",
+      "period": "2014 – 2016"
+    }
+  ],
+  "projects": [
+    {
+      "title": "UI Automation Framework",
+      "description": "Implemented a robust UI Automation framework for Betika using Playwright.",
+      "technologies": ["Playwright", "TypeScript", "CI/CD"],
+      "link": "https://github.com/yourusername/ui-automation-framework",
+      "image": "g-1.jpg"
+    },
+    {
+      "title": "API Automation Framework",
+      "description": "Developed an API Automation Framework using Jest & Axios for comprehensive API testing.",
+      "technologies": ["Jest", "Axios", "JavaScript"],
+      "link": "https://github.com/yourusername/api-automation-framework",
+      "image": "g-2.jpg"
+    },
+    {
+      "title": "Mobile Automation Framework",
+      "description": "Developed a Mobile Automation Framework using Jest , Saucelabs & Appium for comprehensive Mobile testing.",
+      "technologies": ["Jest", "Appium", "Saucelabs"],
+      "link": "https://github.com/yourusername/api-automation-framework",
+      "image": "g-3.jpg"
+    },
+    {
+      "title": "WhoIs Web-App",
+      "description": "Developed a Portfolio website for individuals to use as their curriculum Vitae.",
+      "technologies": ["React", "Typescript", "Tailwindcss"],
+      "link": "https://github.com/yourusername/api-automation-framework",
+      "image": "g-4.jpg"
+    }
+  ],
+  "techStack": [
+    { "name": "Selenium", "category": "Testing", "icon": "/icons/selenium.svg" },
+    { "name": "Java", "category": "Programming", "icon": "/icons/java.svg" },
+    { "name": "Cucumber", "category": "Testing", "icon": "/icons/cucumber.svg" },
+    { "name": "MongoDB", "category": "Database", "icon": "/icons/mongodb.svg" },
+    { "name": "NUnit", "category": "Testing", "icon": "/icons/nunit.svg" },
+    { "name": "Microsoft SQL Server", "category": "Database", "icon": "/icons/mssql.svg" },
+    { "name": "C#", "category": "Programming", "icon": "/icons/csharp.svg" },
+    { "name": "Azure DevOps", "category": "DevOps", "icon": "/icons/azure-devops.svg" },
+    { "name": "App Insights", "category": "Monitoring", "icon": "/icons/app-insights.svg" },
+    { "name": "Visual Studio", "category": "IDE", "icon": "/icons/visual-studio.svg" },
+    { "name": "AppCenter", "category": "Mobile Development", "icon": "/icons/appcenter.svg" },
+    { "name": "TestFlight", "category": "Mobile Development", "icon": "/icons/testflight.svg" },
+    { "name": "Github", "category": "Version Control", "icon": "/icons/github.svg" },
+    { "name": "Typescript", "category": "Programming", "icon": "/icons/typescript.svg" },
+    { "name": "Javascript", "category": "Programming", "icon": "/icons/javascript.svg" },
+    { "name": "GCP", "category": "Cloud", "icon": "/icons/gcp.svg" },
+    { "name": "Playwright", "category": "Testing", "icon": "/icons/playwright.svg" },
+    { "name": "WebdriverIO", "category": "Testing", "icon": "/icons/webdriverio.svg" },
+    { "name": "Appium", "category": "Mobile Testing", "icon": "/icons/appium.svg" },
+    { "name": "Jest", "category": "Testing", "icon": "/icons/jest.svg" },
+    { "name": "Axios", "category": "Networking", "icon": "/icons/axios.svg" },
+    { "name": "Eclipse", "category": "IDE", "icon": "/icons/eclipse.svg" },
+    { "name": "Elastic Search", "category": "Search Engine", "icon": "/icons/elasticsearch.svg" },
+    { "name": "Testlink", "category": "Testing", "icon": "/icons/testlink.svg" },
+    { "name": "QA Touch", "category": "Testing", "icon": "/icons/qatouch.svg" },
+    { "name": "Jira", "category": "Project Management", "icon": "/icons/jira.svg" },
+    { "name": "SVN", "category": "Version Control", "icon": "/icons/svn.svg" },
+    { "name": "Git", "category": "Version Control", "icon": "/icons/git.svg" },
+    { "name": "Fork", "category": "Version Control", "icon": "/icons/fork.svg" },
+    { "name": "vSphere", "category": "Virtualization", "icon": "/icons/vsphere.svg" },
+    { "name": "Remote Desktop", "category": "Remote Access", "icon": "/icons/remote-desktop.svg" },
+    { "name": "Google Developer Tools", "category": "Development", "icon": "/icons/google-devtools.svg" },
+    { "name": "Sauce-Labs", "category": "Testing", "icon": "/icons/sauce-labs.svg" },
+    { "name": "Appium Inspector", "category": "Mobile Testing", "icon": "/icons/appium-inspector.svg" },
+    { "name": "Postman", "category": "API Testing", "icon": "/icons/postman.svg" },
+    { "name": "Wonder Proxy", "category": "Networking", "icon": "/icons/wonder-proxy.svg" },
+    { "name": "Launch Darkly", "category": "Feature Management", "icon": "/icons/launch-darkly.svg" },
+    { "name": "Umbraco CMS", "category": "CMS", "icon": "/icons/umbraco.svg" },
+    { "name": "Cainman Help Desk", "category": "Support", "icon": "/icons/cainman.svg" },
+    { "name": "React", "category": "Frontend", "icon": "/icons/react.svg" },
+    { "name": "Node.js", "category": "Backend", "icon": "/icons/nodejs.svg" },
+    { "name": "Next.js", "category": "Frontend", "icon": "/icons/nextjs.svg" },
+    { "name": "Tailwind CSS", "category": "Frontend", "icon": "/icons/tailwindcss.svg" },
+    { "name": "PostgreSQL", "category": "Database", "icon": "/icons/postgresql.svg" },
+    { "name": "Express", "category": "Backend", "icon": "/icons/express.svg" },
+    { "name": "Vue.js", "category": "Frontend", "icon": "/icons/vuejs.svg" }
+  ]
+}
