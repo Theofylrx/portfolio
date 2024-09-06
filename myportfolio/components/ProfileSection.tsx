@@ -31,7 +31,7 @@ const ProfileSection: React.FC<ProfileSectionProps> = ({ profile }) => {
 
   return (
     <section className="text-center py-20">
-      <img src="/images/profile.jpeg" alt={profile.name} width={192} height={192} className="rounded-full mx-auto mb-4" />
+      <Image src={`/images/${profile.image}`} alt={profile.name} width={192} height={192} className="rounded-full mx-auto mb-4" />
       <h1 className="text-4xl font-bold mb-2">{profile.name}</h1>
       <h2 className="text-2xl mb-4">{profile.title}</h2>
       <p className="max-w-2xl mx-auto mb-6">{profile.bio}</p>
