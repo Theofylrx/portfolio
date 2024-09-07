@@ -23,7 +23,7 @@ const Header: React.FC = () => {
           </li>
           <li>
             <Link href="/tech-stack" className="text-gray-300 hover:text-white px-3 py-2 rounded-full transition duration-300">
-              Tech Stack
+              Stack
             </Link>
           </li>
         </ul>
