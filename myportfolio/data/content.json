@@ -177,7 +177,7 @@
     { "name": "Postman", "category": "API Testing", "icon": "/icons/postman.svg" },
     { "name": "Wonder Proxy", "category": "Networking", "icon": "/icons/wonder-proxy.svg" },
     { "name": "Launch Darkly", "category": "Feature Management", "icon": "/icons/launch-darkly.svg" },
-    { "name": "Umbraco CMS", "category": "CMS", "icon": "/icons/umbraco.png" },
+    { "name": "Umbraco CMS", "category": "CMS", "icon": "/icons/umbraco.svg" },
     { "name": "Cainman Help Desk", "category": "Support", "icon": "/icons/cainman.png" },
     { "name": "React", "category": "Frontend", "icon": "/icons/react.png" },
     { "name": "Node.js", "category": "Backend", "icon": "/icons/nodejs.svg" },
