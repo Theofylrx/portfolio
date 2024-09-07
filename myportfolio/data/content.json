@@ -143,7 +143,7 @@
     { "name": "Selenium", "category": "Testing", "icon": "/icons/selenium.png" },
     { "name": "Java", "category": "Programming", "icon": "/icons/java.png" },
     { "name": "Cucumber", "category": "Testing", "icon": "/icons/cucumber.png" },
-    { "name": "MongoDB", "category": "Database", "icon": "/icons/mongodb.png" },
+    { "name": "MongoDB", "category": "Database", "icon": "/icons/mongodb.svg" },
     { "name": "NUnit", "category": "Testing", "icon": "/icons/nunit.png" },
     { "name": "Microsoft SQL Server", "category": "Database", "icon": "/icons/mssql.png" },
     { "name": "C#", "category": "Programming", "icon": "/icons/csharp.png" },
