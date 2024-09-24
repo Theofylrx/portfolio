@@ -22,11 +22,10 @@
   "about": {
     "fullBio": "I am an accomplished Software Quality Assurance Engineer with a robust background in the entire system development life-cycle. My expertise lies in the creation and implementation of meticulous test plans, test cases, and streamlined testing procedures. This has consistently led to swift issue resolution, substantial cost savings, and impeccable audit outcomes. I am characterized by unwavering diligence, boundless enthusiasm, and a versatile mindset, eager to shape my skills to benefit any organization.",
     "skills": [
-      "Web Automation Testing",
-      "Mobile Automation (Android & iOS)",
-      "API Automation",
+      "Software Development",
+      "Automation Testing (API, Web & Mobile)",
+      "CI/CD",
       "Manual Testing",
-      "Continuous Integration/Continuous Deployment",
       "Test Planning and Documentation",
       "Defect Tracking and Management"
     ],
