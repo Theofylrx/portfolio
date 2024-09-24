@@ -115,14 +115,14 @@
       "description": "Implemented a robust UI Automation framework for Betika using Playwright.",
       "technologies": ["Playwright", "TypeScript", "CI/CD"],
       "link": "https://github.com/yourusername/ui-automation-framework",
-      "image": "g-1.jpg"
+      "image": "automation.jpeg"
     },
     {
       "title": "API Automation Framework",
       "description": "Developed an API Automation Framework using Jest & Axios for comprehensive API testing.",
       "technologies": ["Jest", "Axios", "JavaScript"],
       "link": "https://github.com/yourusername/api-automation-framework",
-      "image": "g-2.jpg"
+      "image": "apiautomation.webp"
     },
     {
       "title": "Mobile Automation Framework",
