@@ -90,6 +90,22 @@
       "achievements": [
         "Introduced Web Automation for Test coverage"
       ]
+    },
+    {
+      "title": "Software Engineer Internship",
+      "company": "ZTT International",
+      "period": "July 2017 – Febr 2018",
+      "responsibilities": [
+        "Developed Back Office System",
+        "Full-stack Development",
+        "Server Management & Deploying"
+      ],
+      "achievements": [
+        "Implemented UI Automation framework for Betika using Playwright",
+        "Implemented Github actions workflows for CI/CD",
+        "Implemented API Automation Framework using Jest & Axios",
+        "Coaching fellow QA's on Automation & CI/CD pipelines"
+      ]
     }
   ],
   "education": [
@@ -97,6 +113,11 @@
       "institution": "Nelson Mandela University (NMU)",
       "degree": "BTech (Information Technology: Software Development)",
       "year": "2018"
+    },
+    {
+      "institution": "Changzhou College Of Information Technology",
+      "degree": "IT: Software Development",
+      "period": "03/2027 – 07/2017"
     },
     {
       "institution": "Nelson Mandela University (NMU)",
