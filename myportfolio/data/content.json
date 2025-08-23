@@ -101,10 +101,7 @@
         "Server Management & Deploying"
       ],
       "achievements": [
-        "Implemented UI Automation framework for Betika using Playwright",
-        "Implemented Github actions workflows for CI/CD",
-        "Implemented API Automation Framework using Jest & Axios",
-        "Coaching fellow QA's on Automation & CI/CD pipelines"
+        
       ]
     }
   ],
