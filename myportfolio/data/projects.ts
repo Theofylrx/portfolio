@@ -1,17 +1,30 @@
 export const projects = [
     {
-      title: 'Project 1',
-      description: 'A brief description of project 1.',
-      imageUrl: '/images/project1.jpg',
-      technologies: ['React', 'Node.js', 'MongoDB'],
-      link: 'https://project1.com'
+      title: 'API Test Automation Framework',
+      description: 'Comprehensive API testing framework built with Jest and Axios for automated testing of REST APIs.',
+      image: 'apiautomation.webp',
+      technologies: ['Jest', 'Axios', 'TypeScript', 'CI/CD'],
+      link: 'https://github.com/Theofylrx'
     },
     {
-      title: 'Project 2',
-      description: 'A brief description of project 2.',
-      imageUrl: '/images/project2.jpg',
-      technologies: ['Vue.js', 'Express', 'PostgreSQL'],
-      link: 'https://project2.com'
+      title: 'Web & Mobile Automation Suite',
+      description: 'Cross-platform automation testing suite using Playwright for web and Appium for mobile applications.',
+      image: 'automation.jpeg',
+      technologies: ['Playwright', 'Appium', 'JavaScript', 'Selenium'],
+      link: 'https://github.com/Theofylrx'
     },
-    // Add more projects as needed
+    {
+      title: 'Mobile Testing Framework',
+      description: 'Advanced mobile testing framework supporting iOS and Android platforms with comprehensive reporting.',
+      image: 'mobileautomation.webp',
+      technologies: ['Appium', 'TestNG', 'Java', 'Selenium Grid'],
+      link: 'https://github.com/Theofylrx'
+    },
+    {
+      title: 'WHOIS Domain Lookup Tool',
+      description: 'Domain information lookup tool with comprehensive DNS and WHOIS data retrieval capabilities.',
+      image: 'whois.jpg',
+      technologies: ['Python', 'DNS', 'Web Scraping', 'API'],
+      link: 'https://github.com/Theofylrx'
+    }
   ]

@@ -1,6 +1,7 @@
 import React from 'react';
-import Header from '@/components/Header';
-import Footer from '@/components/Footer';
+import { HeaderSection } from '@/components/organisms/HeaderSection';
+import { FooterSection } from '@/components/organisms/FooterSection';
+import { ThemeProvider } from '@/components/theme-provider';
 import '@/styles/globals.css';
 import '@fortawesome/fontawesome-svg-core/styles.css';
 
@@ -15,11 +16,18 @@ export default function RootLayout({
   children: React.ReactNode
 }>) {
   return (
-    <html lang="en">
-      <body className="min-h-screen bg-gray-900 text-white">
-        <Header />
-        <main>{children}</main>
-        <Footer />
+    <html lang="en" suppressHydrationWarning>
+      <body className="min-h-screen">
+        <ThemeProvider
+          attribute="class"
+          defaultTheme="light"
+          enableSystem={false}
+          disableTransitionOnChange
+        >
+          <HeaderSection />
+          <main>{children}</main>
+          <FooterSection />
+        </ThemeProvider>
       </body>
     </html>
   );
